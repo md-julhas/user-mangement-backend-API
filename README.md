@@ -1,6 +1,6 @@
 # User Management API
 
-A full-featured Node.js + Express backend for managing users, built with robust authentication, authorization, email verification, and password reset functionalities. Ideal for applications requiring secure user account control.
+A Node.js + Express backend for user management, featuring authentication, authorization, email verification, and password reset—ideal for applications requiring secure user account control.
 
 ## 🚀 Features
 
