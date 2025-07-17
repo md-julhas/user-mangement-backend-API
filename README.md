@@ -46,7 +46,7 @@ A Node.js + Express backend for user management, featuring authentication, autho
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB with Mongoose
 - **Authentication**: JSON Web Token (JWT)
-- **Email**: Nodemailer (or similar)
+- **Email**: Nodemailer
 - **Logging**: Winston
 - **Session Management**: HTTP-only Cookies
 
