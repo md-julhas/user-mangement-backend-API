@@ -15,7 +15,7 @@ A Node.js + Express backend for user management, featuring authentication, autho
   - JSON Web Tokens (JWT) used for authentication
   - Refresh and access tokens stored in cookies for secure session management
 
-- 🧑‍💼 **Admin Features**
+- 🧑 **Admin Features**
 
   - Get all users with pagination
   - Ban and unban users
